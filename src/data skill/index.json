@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/Programming Languages.png",
+      "title": "Programming Languages 💻",
+      "description": "Python, JavaScript, TypeScript,"
+    },
+    {
+      "id": "2",
+      "src": "./img/Web & Mobile Development.png",
+      "title": "Web & Mobile Development 🌐",
+      "description": "HTML5, CSS3, React, Vue.js, Angular, Tailwind,"
+    },
+    {
+      "id": "3",
+      "src": "./img/Backend & Databases.png",
+      "title": "Backend & Databases 🗄️",
+      "description": "Node.js, Firebase"
+    },
+    {
+      "id": "4",
+      "src": "./img/Cloud & DevOps.png",
+      "title": "Cloud & DevOps ☁️",
+      "description": "Google Cloud,CI/CD (GitHub Actions, )"
+    },
+    {
+      "id": "5",
+      "src": "./img/Software Practices & Tools.png",
+      "title": "Software Practices & Tools 🛠️",
+      "description": "REST APIs, Clean Code, Git & GitHub"
+    },
+    {
+      "id": "6",
+      "src": "./img/Emerging Tech & Trends.png",
+      "title": "Emerging Tech & Trends 🚀",
+      "description": "AI, Blockchain (Solidity), Web3, Webflow"
+    },
+    {
+      "id": "7",
+      "src": "./img/Design & UIUX.png",
+      "title": "Design & UI/UX 🎨",
+      "description": "Photoshop, Premiere Pro, Webflow, UI/UX Design, Responsive Design"
+    },
+    {
+      "id": "8",
+      "src": "./img/Problem Solving & Collaboration.png",
+      "title": "Problem Solving & Collaboration 🤝",
+      "description": "Problem-solving, Debugging, Code Optimization, Responsive & Mobile-first Design, Collaboration & Teamwork"
+    }
+  ]
+}
