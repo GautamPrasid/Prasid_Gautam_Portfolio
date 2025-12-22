@@ -9,10 +9,12 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Hello, I'm Prasid Gautam! I'm an 18-year-old university student hailing from the scenic city of Pokhara, Nepal. Driven by a passion for technology and an unquenchable curiosity, I’m constantly exploring new skills and pushing the boundaries of my knowledge. Whether it's coding or software development, I'm all about honing my skills and building projects that excite and challenge me.
+            Namaste! I’m Prasid Gautam.
+
+            Growing up in the serene landscapes of Pokhara, Nepal, I’ve always been a curious soul. At 18, that curiosity has led me into the world of university and the endless possibilities of software development. For me, coding is like cooking—it’s about taking the right ingredients, experimenting with flavors (or logic!), and creating something that people truly enjoy.
           </p>
           <p className="hero--section-description">
-            Beyond tech, I’m a music enthusiast, a budding cook who loves experimenting with new recipes, and an avid traveler. Traveling allows me to immerse myself in different cultures, savor unique cuisines, and draw inspiration from diverse perspectives. Each adventure broadens my horizon and fuels my drive to create.
+            When I’m not deep-diving into a new repository or troubleshooting code, you’ll find me in the kitchen trying to master a complex recipe or lost in the rhythm of my favorite playlist. I’m also a big believer in the 'classroom of the world.' Traveling isn't just a hobby for me; it’s how I recharge and find fresh perspectives that I bring back to my technical projects. I’m always looking for the next big challenge—whether it’s a bug to fix, a mountain to trek, or a new culture to explore.
           </p>
         </div>
       </div>
