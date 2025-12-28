@@ -35,21 +35,13 @@
     {
       "id": "5",
       "src": "./img/placeholder-image.png",
-      "title": "Personal Portfolio (JavaScript)",
-      "description": "A personal portfolio project focused on improving JavaScript interactivity and frontend development skills.",
-      "link": "View On GitHub",
-      "url": "https://github.com/GautamPrasid/Personal-portfolio"
-    },
-    {
-      "id": "6",
-      "src": "./img/placeholder-image.png",
       "title": "Photography Portfolio",
       "description": "A photography portfolio website showcasing moments, emotions, and stories through creative visuals and clean design.",
       "link": "View On GitHub",
       "url": "https://github.com/GautamPrasid/photography_potfolio-"
     },
     {
-      "id": "7",
+      "id": "6",
       "src": "./img/placeholder-image.png",
       "title": "Personal Blog",
       "description": "A responsive blog website for publishing articles on technology, learning experiences, and personal growth.",
@@ -57,28 +49,12 @@
       "url": "https://github.com/GautamPrasid/personal_blog"
     },
     {
-      "id": "8",
+      "id": "7",
       "src": "./img/placeholder-image.png",
       "title": "QR Code Generator",
       "description": "A simple QR Code Generator built using web technologies that generates QR codes instantly.",
       "link": "View On GitHub",
       "url": "https://github.com/GautamPrasid/Qr-code-generator"
-    },
-    {
-      "id": "9",
-      "src": "./img/placeholder-image.png",
-      "title": "First College Assignment",
-      "description": "My first college assignment built with HTML to learn Git, GitHub version control, and basic domain hosting.",
-      "link": "View On GitHub",
-      "url": "https://github.com/GautamPrasid/first-assistment"
-    },
-    {
-      "id": "10",
-      "src": "./img/placeholder-image.png",
-      "title": "GitHub Profile Configuration",
-      "description": "Configuration files and settings used to customize and manage my GitHub profile and repositories.",
-      "link": "View On GitHub",
-      "url": "https://github.com/GautamPrasid/GautamPrasid"
     }
   ]
 }
