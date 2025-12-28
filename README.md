@@ -25,12 +25,6 @@ This site is designed to reflect my work as a developer, highlight my learning j
 - `/public` — static assets (images, icons, etc.)  
 - `package.json` — project dependencies and scripts
 
-## ▶️ Running the Project Locally
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/GautamPrasid/Prasid_Gautam_Portfolio
-cd Prasid_Gautam_Portfolio
 ````
 
 ### 2️⃣ Install dependencies (if this is a React/JS project)
@@ -45,30 +39,10 @@ npm install
 npm run dev
 ```
 
-### 👉 If this is a static HTML project
-
-Simply open `index.html` in your browser.
-
-## 🌐 Live Demo
-
-Add your deployed link here (e.g., Netlify / Vercel / GitHub Pages):
-
-`https://your-portfolio-link-here`
-
-## 📸 Screenshots (optional)
-
-Add screenshots here to showcase the UI.
-
 ## 🤝 Contributing
 
 This is a personal project, but suggestions and improvements are welcome.
 Feel free to open an issue or submit a pull request.
-
-## 📬 Contact
-
-* **Name:** Prasid Gautam
-* **Location:** Nepal
-* **Instagram:** @findnepalisong (or other link if preferred)
 
 ---
 
